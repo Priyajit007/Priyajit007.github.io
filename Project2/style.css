@@ -1,0 +1,20 @@
+#title{
+    background-image: url('images/title-back.jpg');
+    background-size: cover;
+}
+#about{
+    background-image: url('images/earth.jpg');
+    background-size: cover;
+}
+#prizes{
+    background-image: url('images/fireworks.jpg');
+    background-size: cover;
+}
+#venue{
+    background-image: url('images/hall.jpg');
+    background-size: cover;
+}
+#faq{
+    background-image: url('images/ai.jpg');
+    background-size: cover;
+}
